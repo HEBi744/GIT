@@ -2,6 +2,6 @@ u bot
 mike
 
 git branch 
-##полезная фигня
+##РїРѕР»РµР·РЅРѕРµ
 https://github.com/HEBi744/GIT
 
